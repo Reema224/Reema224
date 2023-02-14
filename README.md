@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1G48nR39nRmN3bhx9lWZ9oN5DA3r9LqrE/view?usp=share_link](https://drive.google.com/file/d/1G48nR39nRmN3bhx9lWZ9oN5DA3r9LqrE/view?usp=share_link)
 
-<br><h3 align="left">Connect with me:</h3>
+<br><br><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rima-abou-chacra-7a4274261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rima-abou-chacra-7a4274261" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/rima.abouchakra.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/rima.abouchakra.14" height="30" width="40" /></a>
